@@ -1,0 +1,2 @@
+Meteoroid_portable[[:space:]]v1.3.zip filter=lfs diff=lfs merge=lfs -text
+MeteoroidInstaller.exe filter=lfs diff=lfs merge=lfs -text
