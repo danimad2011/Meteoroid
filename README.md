@@ -67,9 +67,9 @@ Original project file:
 
 ## 🙌 Credits
 
-Created by **danimad2011** 
-**Turbowarp Packager**  for porting this project. 
-Game design, programming, graphics, and packaging.
+- Created by **danimad2011** 
+- **Turbowarp Packager**  for porting this project. 
+- Game design, programming, graphics, and packaging.
 
 
 ---
